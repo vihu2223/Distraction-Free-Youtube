@@ -1,25 +1,29 @@
-Distraction-Free YouTube Page
-Description
-A simple, clean YouTube page created with HTML that provides a distraction-free experience. It includes three categories: Gaming, Songs, and Coding, each with its own dedicated HTML page, all accessible through the main index page.
+🎯 Distraction-Free YouTube Page 🎯
+Example preview of the distraction-free YouTube page
 
-Features:
-Minimalist design for better focus
+🏷️ Tags
+#HTML #DistractionFree #YouTubePage #Gaming 🎮 #Music 🎵 #Coding 💻 #WebDevelopment 🌐 #CleanDesign 🧹
 
-Easy navigation between categories
+📄 Description
+A simple, clean YouTube page created with HTML that provides a distraction-free experience. It includes three categories: Gaming 🎮, Songs 🎵, and Coding 💻, each with its own dedicated HTML page, all accessible through the main index page.
 
-Separate HTML files for each category
+✨ Features
+Minimalist design for better focus 🧘‍♂️
 
-Usage
-Open index.html in a web browser to start
+Easy navigation between categories 🔗
 
-Click on category links to navigate to Gaming, Songs, or Coding pages
+Separate HTML files for each category 🗂️
 
-Files: 
+🚀 Usage
+Open index.html in a web browser to start 🌐
 
-index.html: Main landing page
+Click on category links to navigate to Gaming 🎮, Songs 🎵, or Coding 💻 pages
 
-gaming.html: Gaming category page
+📂 Files
+index.html: Main landing page 🏠
 
-music.html: Songs category page
+gaming.html: Gaming category page 🎮
 
-coding.html: Coding category page
+music.html: Songs category page 🎵
+
+coding.html: Coding category page 💻
