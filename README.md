@@ -17,6 +17,9 @@ Click on category links to navigate to Gaming, Songs, or Coding pages
 Files: 
 
 index.html: Main landing page
+
 gaming.html: Gaming category page
+
 music.html: Songs category page
+
 coding.html: Coding category page
